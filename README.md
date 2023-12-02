@@ -1,3 +1,5 @@
+To see the deployed Bookify project, please visit https://656a99aecb669e700c5bbdab--idyllic-tanuki-ad465e.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
