@@ -4,7 +4,7 @@ import useFetch from "../../hooks/useFetch";
 
 const Featured = ()=> {
 
-    const {data, loading, error} = useFetch("http://localhost:8800/api/hotels/countByCity?cities=Quebec,Calgary,NiagaraFalls")
+    const {data, loading, error} = useFetch("https://bookify-node-api.onrender.com/api/hotels/countByCity?cities=Quebec,Calgary,NiagaraFalls")
     console.log(data)
     return(
         
